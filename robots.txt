@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://godmode59.github.io/sitemap.xml
